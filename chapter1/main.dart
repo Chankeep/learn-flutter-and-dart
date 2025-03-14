@@ -1,4 +1,5 @@
 class Spacecraft {
+  String prototype;
   String name;
   DateTime? launchDate;
 
